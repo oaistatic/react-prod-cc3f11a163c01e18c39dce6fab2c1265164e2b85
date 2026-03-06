@@ -1,0 +1,2 @@
+import{c as e}from"./f0a0a9e6-pdif0stwrrsf8omj.js";import"./2340486e-pfdnhg9jt0indmad.js";const p=e("Regex",[["path",{d:"M17 3v10",key:"15fgeh"}],["path",{d:"m12.67 5.5 8.66 5",key:"1gpheq"}],["path",{d:"m12.67 10.5 8.66-5",key:"1dkfa6"}],["path",{d:"M9 17a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v2a2 2 0 0 0 2 2h2a2 2 0 0 0 2-2v-2z",key:"swwfx4"}]]);export{p as default};
+//# sourceMappingURL=0730bc08-brsfbcvgz0x6phn5.js.map

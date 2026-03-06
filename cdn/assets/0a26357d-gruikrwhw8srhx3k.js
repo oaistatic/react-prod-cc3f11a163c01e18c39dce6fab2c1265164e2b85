@@ -1,0 +1,2 @@
+import{c as t}from"./f0a0a9e6-pdif0stwrrsf8omj.js";const e=t("SquareX",[["rect",{width:"18",height:"18",x:"3",y:"3",rx:"2",ry:"2",key:"1m3agn"}],["path",{d:"m15 9-6 6",key:"1uzhvr"}],["path",{d:"m9 9 6 6",key:"z0biqf"}]]),o=Object.freeze(Object.defineProperty({__proto__:null,default:e},Symbol.toStringTag,{value:"Module"}));const a=Object.freeze(Object.defineProperty({__proto__:null,default:e},Symbol.toStringTag,{value:"Module"}));export{e as S,o as s,a as x};
+//# sourceMappingURL=0a26357d-gruikrwhw8srhx3k.js.map

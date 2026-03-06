@@ -1,0 +1,2 @@
+import{j as n}from"./2340486e-pfdnhg9jt0indmad.js";import{r as s,C as m}from"./0cb8459d-grrpoyfd6rrr49u3.js";import{u as a}from"./bb47c0a1-oimwh2bst6yi77jd.js";import"./4813494d-fem98vtdv0tfnypm.js";import"./1a7ebd5f-eklcn7y0c4p3fvkz.js";const x=({components:r})=>{const{theme:t}=a(),e=t!=null?t:0,o=r[e];return n.jsx(n.Fragment,{children:o?s(o,m):null})};export{x as default};
+//# sourceMappingURL=a530b024-lxcw34oshe1g754o.js.map

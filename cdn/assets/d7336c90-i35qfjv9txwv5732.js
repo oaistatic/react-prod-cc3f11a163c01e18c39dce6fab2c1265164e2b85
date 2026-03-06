@@ -1,0 +1,2 @@
+import{c as t}from"./f0a0a9e6-pdif0stwrrsf8omj.js";const e=t("Axis3d",[["path",{d:"M4 4v16h16",key:"1s015l"}],["path",{d:"m4 20 7-7",key:"17qe9y"}]]),a=Object.freeze(Object.defineProperty({__proto__:null,default:e},Symbol.toStringTag,{value:"Module"}));const r=Object.freeze(Object.defineProperty({__proto__:null,default:e},Symbol.toStringTag,{value:"Module"}));export{e as A,a,r as b};
+//# sourceMappingURL=d7336c90-i35qfjv9txwv5732.js.map

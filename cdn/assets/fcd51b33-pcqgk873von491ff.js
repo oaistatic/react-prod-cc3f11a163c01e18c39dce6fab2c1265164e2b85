@@ -1,0 +1,2 @@
+import{c as e}from"./f0a0a9e6-pdif0stwrrsf8omj.js";import"./2340486e-pfdnhg9jt0indmad.js";const h=e("CableCar",[["path",{d:"M10 3h.01",key:"lbucoy"}],["path",{d:"M14 2h.01",key:"1k8aa1"}],["path",{d:"m2 9 20-5",key:"1kz0j5"}],["path",{d:"M12 12V6.5",key:"1vbrij"}],["rect",{width:"16",height:"10",x:"4",y:"12",rx:"3",key:"if91er"}],["path",{d:"M9 12v5",key:"3anwtq"}],["path",{d:"M15 12v5",key:"5xh3zn"}],["path",{d:"M4 17h16",key:"g4d7ey"}]]);export{h as default};
+//# sourceMappingURL=fcd51b33-pcqgk873von491ff.js.map

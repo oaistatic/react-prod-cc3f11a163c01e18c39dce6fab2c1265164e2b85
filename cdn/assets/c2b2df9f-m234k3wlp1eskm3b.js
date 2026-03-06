@@ -1,0 +1,2 @@
+import{c as t}from"./f0a0a9e6-pdif0stwrrsf8omj.js";import"./2340486e-pfdnhg9jt0indmad.js";const a=t("Contact",[["path",{d:"M16 2v2",key:"scm5qe"}],["path",{d:"M7 22v-2a2 2 0 0 1 2-2h6a2 2 0 0 1 2 2v2",key:"1waht3"}],["path",{d:"M8 2v2",key:"pbkmx"}],["circle",{cx:"12",cy:"11",r:"3",key:"itu57m"}],["rect",{x:"3",y:"4",width:"18",height:"18",rx:"2",key:"12vinp"}]]);export{a as default};
+//# sourceMappingURL=c2b2df9f-m234k3wlp1eskm3b.js.map

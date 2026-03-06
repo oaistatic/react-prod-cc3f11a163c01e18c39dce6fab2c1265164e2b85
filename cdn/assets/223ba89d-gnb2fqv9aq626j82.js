@@ -1,0 +1,2 @@
+import{c as e}from"./f0a0a9e6-pdif0stwrrsf8omj.js";import"./2340486e-pfdnhg9jt0indmad.js";const c=e("ArchiveX",[["rect",{width:"20",height:"5",x:"2",y:"3",rx:"1",key:"1wp1u1"}],["path",{d:"M4 8v11a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8",key:"1s80jp"}],["path",{d:"m9.5 17 5-5",key:"nakeu6"}],["path",{d:"m9.5 12 5 5",key:"1hccrj"}]]);export{c as default};
+//# sourceMappingURL=223ba89d-gnb2fqv9aq626j82.js.map

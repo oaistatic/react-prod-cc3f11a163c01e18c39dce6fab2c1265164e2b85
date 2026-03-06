@@ -1,0 +1,2 @@
+import{c as e}from"./f0a0a9e6-pdif0stwrrsf8omj.js";import"./2340486e-pfdnhg9jt0indmad.js";const i=e("AlignVerticalDistributeCenter",[["path",{d:"M22 17h-3",key:"1lwga1"}],["path",{d:"M22 7h-5",key:"o2endc"}],["path",{d:"M5 17H2",key:"1gx9xc"}],["path",{d:"M7 7H2",key:"6bq26l"}],["rect",{x:"5",y:"14",width:"14",height:"6",rx:"2",key:"1qrzuf"}],["rect",{x:"7",y:"4",width:"10",height:"6",rx:"2",key:"we8e9z"}]]);export{i as default};
+//# sourceMappingURL=bf06d984-b8c3xsuh4mnled1x.js.map

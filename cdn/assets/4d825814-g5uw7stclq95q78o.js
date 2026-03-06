@@ -1,0 +1,2 @@
+import{c as t}from"./f0a0a9e6-pdif0stwrrsf8omj.js";const e=t("SquarePlay",[["rect",{width:"18",height:"18",x:"3",y:"3",rx:"2",key:"afitv7"}],["path",{d:"m9 8 6 4-6 4Z",key:"f1r3lt"}]]),r=Object.freeze(Object.defineProperty({__proto__:null,default:e},Symbol.toStringTag,{value:"Module"}));const o=Object.freeze(Object.defineProperty({__proto__:null,default:e},Symbol.toStringTag,{value:"Module"}));export{e as S,o as p,r as s};
+//# sourceMappingURL=4d825814-g5uw7stclq95q78o.js.map

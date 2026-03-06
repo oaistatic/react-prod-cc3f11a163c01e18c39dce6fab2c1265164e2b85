@@ -1,0 +1,2 @@
+import{c}from"./f0a0a9e6-pdif0stwrrsf8omj.js";const e=c("EllipsisVertical",[["circle",{cx:"12",cy:"12",r:"1",key:"41hilf"}],["circle",{cx:"12",cy:"5",r:"1",key:"gxeob9"}],["circle",{cx:"12",cy:"19",r:"1",key:"lyex9k"}]]),r=Object.freeze(Object.defineProperty({__proto__:null,default:e},Symbol.toStringTag,{value:"Module"}));const t=Object.freeze(Object.defineProperty({__proto__:null,default:e},Symbol.toStringTag,{value:"Module"}));export{e as E,r as e,t as m};
+//# sourceMappingURL=c15fe197-dn30f3995vcfqw2m.js.map

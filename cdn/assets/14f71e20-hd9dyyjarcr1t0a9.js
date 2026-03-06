@@ -1,0 +1,2 @@
+import{j as e}from"./2340486e-pfdnhg9jt0indmad.js";import{g as i}from"./6fd89734-otfk9dsgab664vd5.js";import{bp as c,dc as a}from"./1a7ebd5f-eklcn7y0c4p3fvkz.js";import{ac as x}from"./4813494d-fem98vtdv0tfnypm.js";const l={pptx:a,xlsx:c},b=({fileName:t})=>{if(!t)return null;const s=i(t),n=s?l[s]:null,o=s==="xlsx",r=s==="pptx";return n?e.jsx("div",{className:x("rounded-md p-1",o&&"bg-[#04b84c]",r&&"bg-orange-300"),children:e.jsx(n,{className:"m-0 size-4 text-white"})}):null};export{b as F};
+//# sourceMappingURL=14f71e20-hd9dyyjarcr1t0a9.js.map

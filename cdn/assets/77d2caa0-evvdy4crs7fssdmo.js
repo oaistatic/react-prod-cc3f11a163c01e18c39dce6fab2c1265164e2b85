@@ -1,0 +1,2 @@
+import{c as i,j as s}from"./2340486e-pfdnhg9jt0indmad.js";import{fn as m}from"./1a7ebd5f-eklcn7y0c4p3fvkz.js";import"./4813494d-fem98vtdv0tfnypm.js";function u(n){"use forget";const t=i.c(3),{currentGizmoId:r,activeThreadId:o}=n;let e;return t[0]!==o||t[1]!==r?(e=s.jsx(m,{currentGizmoId:r,activeThreadId:o}),t[0]=o,t[1]=r,t[2]=e):e=t[2],e}export{u as SidebarMoreMenuContent};
+//# sourceMappingURL=77d2caa0-evvdy4crs7fssdmo.js.map

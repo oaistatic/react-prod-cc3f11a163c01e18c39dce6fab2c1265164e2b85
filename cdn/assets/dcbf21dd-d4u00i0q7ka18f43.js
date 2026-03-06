@@ -1,0 +1,2 @@
+import{c as r}from"./f0a0a9e6-pdif0stwrrsf8omj.js";const e=r("SquareArrowUp",[["rect",{width:"18",height:"18",x:"3",y:"3",rx:"2",key:"afitv7"}],["path",{d:"m16 12-4-4-4 4",key:"177agl"}],["path",{d:"M12 16V8",key:"1sbj14"}]]),o=Object.freeze(Object.defineProperty({__proto__:null,default:e},Symbol.toStringTag,{value:"Module"}));const a=Object.freeze(Object.defineProperty({__proto__:null,default:e},Symbol.toStringTag,{value:"Module"}));export{e as S,a,o as s};
+//# sourceMappingURL=dcbf21dd-d4u00i0q7ka18f43.js.map

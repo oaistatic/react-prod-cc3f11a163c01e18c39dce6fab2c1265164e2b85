@@ -1,0 +1,2 @@
+import{c9 as s}from"./1a7ebd5f-eklcn7y0c4p3fvkz.js";const u="redirectedFromAuth",o="studentsPromotion";function c(t){return"/students?".concat(t,"=true")}function p(t=!1){return t?window.location.origin+"/?".concat(o,"=true"):"/?".concat(o,"=true")}function A(t){const i=t.hasPaidSubscription(),n=t.getLastActiveSubscription(),r=i&&[s.CHATGPT_IOS,s.SORA_IOS].includes(n.purchase_origin_platform),a=i&&n.purchase_origin_platform===s.MOBILE_ANDROID;return r||a}export{o as C,u as R,c as a,p as g,A as h};
+//# sourceMappingURL=6fd89734-jito05c8zygxi7oz.js.map

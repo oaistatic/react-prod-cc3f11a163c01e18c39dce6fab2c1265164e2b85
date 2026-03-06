@@ -1,0 +1,2 @@
+import{iR as n,dB as a}from"./4813494d-fem98vtdv0tfnypm.js";async function l(t){const e=new FormData;e.append("file",t,t.name);const o=await n.post("".concat(a,"/calpico/chatgpt/profile_files"),e);return i(o)}function i(t){if(t==null||typeof t!="object")return null;const e=Reflect.get(t,"asset_pointer");return typeof e=="string"?e:null}export{l as u};
+//# sourceMappingURL=880eb4dc-ex70emcrpzl7hle0.js.map

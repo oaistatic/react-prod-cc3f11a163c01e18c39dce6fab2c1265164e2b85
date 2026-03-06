@@ -1,0 +1,2 @@
+import{c as o}from"./f0a0a9e6-pdif0stwrrsf8omj.js";const e=o("LoaderCircle",[["path",{d:"M21 12a9 9 0 1 1-6.219-8.56",key:"13zald"}]]),t=Object.freeze(Object.defineProperty({__proto__:null,default:e},Symbol.toStringTag,{value:"Module"}));const a=Object.freeze(Object.defineProperty({__proto__:null,default:e},Symbol.toStringTag,{value:"Module"}));export{e as L,a,t as l};
+//# sourceMappingURL=8eb3a451-pixe6bxhh79fiphe.js.map

@@ -1,0 +1,2 @@
+const c=["\\vec{a}\\cdot\\vec{b} = \\|\\vec{a}\\|\\|\\vec{b}\\|\\cos\\theta","\\mathbf{a}\\cdot\\mathbf{b} = |\\mathbf{a}||\\mathbf{b}|\\cos(\\theta)","\\cos\\theta = \\frac{\\vec a \\cdot \\vec b}{\\|\\vec a\\|\\|\\vec b\\|}","\\cos(\\theta) = \\frac{a\\cdot b}{|a||b|}","\\cos\\theta = \\frac{\\vec a\\cdot\\vec b}{\\|\\vec a\\|\\|\\vec b\\|}"];export{c as default};
+//# sourceMappingURL=b3208a9b-ossx8w8diq1dqfjz.js.map
